@@ -1,5 +1,4 @@
 <h2> Hi Everyone, I'm Bahyu Sanciko! <img src="https://img.icons8.com/cotton/344/laptop-coding.png" width="50"></h2>
-<img align='right' src="https://avatars1.githubusercontent.com/u/41245088?s=460&u=baa992aae54c099ac22b91f3781ea0e92ccfb20c&v=4" width="230">
 <p><em> Full Stack Enginner at <a href="http://sabaindomedika.com/">PT SABA INDOMEDIKA</a>
 </em></p>
 
