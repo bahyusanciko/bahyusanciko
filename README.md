@@ -1,6 +1,6 @@
 <h2> Hi Everyone, I'm Bahyu Sanciko! <img src="https://img.icons8.com/cotton/344/laptop-coding.png" width="50"></h2>
 <img align='right' src="https://avatars1.githubusercontent.com/u/41245088?s=460&u=baa992aae54c099ac22b91f3781ea0e92ccfb20c&v=4" width="230">
-<p><em> Full Stack Enginner at <a href="http://www.unb.br">PT SABA INDOMEDIKA</a>
+<p><em> Full Stack Enginner at <a href="http://sabaindomedika.com/">PT SABA INDOMEDIKA</a>
 </em></p>
 
 [![Twitter: bhysnck](https://img.shields.io/twitter/follow/bahyusanciko?style=social)](https://twitter.com/bhysnck)
@@ -26,7 +26,6 @@ const aboutme = {
 
 ## Github Performance Overall
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bahyusanciko&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahyusanciko&theme=nord)](https://github.com/bahyusanciko/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahyusanciko&theme=nord&layout=compact)](https://github.com/bahyusanciko/github-readme-stats)
 
 
