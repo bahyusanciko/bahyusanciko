@@ -11,8 +11,8 @@
 
 ```javascript
 const aboutme = {
-  code: [PHP, Javascript, Typescript, HTML, CSS , Java],
-  tools: [ CI, Laravel , Angular , Ionic, Styled-Components, Docker],
+  code: [PHP, Javascript, Typescript, HTML, CSS],
+  tools: [ Laravel, Codeigniter , Angular , Ionic, Styled-Components, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   
  challenge: "I am doing the #100DaysOfCode challenge focused on typescript"
