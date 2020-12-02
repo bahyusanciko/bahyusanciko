@@ -1,4 +1,4 @@
-<h2> Hi Everyone, I'm Bahyu Sanciko! <img src="https://img.icons8.com/cotton/344/laptop-coding.png" width="50"></h2>
+<h2> Hi Everyone, I'm Bahyu Sanciko!</h2>
 <p><em> Full Stack Enginner at <a href="http://sabaindomedika.com/">PT SABA INDOMEDIKA</a>
 </em></p>
 
