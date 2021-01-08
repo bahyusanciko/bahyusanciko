@@ -1,5 +1,5 @@
 <h2> Hi Everyone, I'm Bahyu Sanciko!</h2>
-<p><em> Full Stack Enginner at <a href="http://sabaindomedika.com/">PT SABA INDOMEDIKA</a>
+<p><em> Full Stack Developer
 </em></p>
 
 [![Twitter: bhysnck](https://img.shields.io/twitter/follow/bhysnck?style=social)](https://twitter.com/bhysnck)
