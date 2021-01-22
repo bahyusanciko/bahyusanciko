@@ -1,5 +1,5 @@
 <h2> Hi Everyone, I'm Bahyu Sanciko!</h2>
-<p><em> Full Stack Developer
+<p><em> Full-Stack Engineer
 </em></p>
 
 [![Twitter: bhysnck](https://img.shields.io/twitter/follow/bhysnck?style=social)](https://twitter.com/bhysnck)
