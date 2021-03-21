@@ -15,7 +15,7 @@ const aboutme = {
   tools: [ Laravel, Codeigniter , Angular , Ionic, Bootstrap, Docker],
   architecture: ["microservices", "event-driven", "design system pattern", "spaghetti code"],
   
- challenge: "I am doing the #999DaysOfCode challenge focused on typescript"
+  challenge: "I am doing the #999DaysOfCode challenge focused on typescript"
 }
 ```
 
