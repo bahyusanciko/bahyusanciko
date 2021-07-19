@@ -25,7 +25,5 @@ const aboutme = {
 
 ## Github Performance Overall
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bahyusanciko&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahyusanciko&theme=nord&layout=compact)](https://github.com/bahyusanciko/github-readme-stats)
-
 
 ⭐️ From [@Bahyusanciko](https://github.com/bahyusanciko)
