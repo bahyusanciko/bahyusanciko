@@ -18,12 +18,5 @@ const aboutme = {
   challenge: "I am doing the #999DaysOfCode challenge focused on typescript"
 }
 ```
-
-<img src="https://img.icons8.com/ios-glyphs/344/developer.png" width="60"> <em><b>Code Is Paradoks</b></em>
-
 ---
-
-## Github Performance Overall
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bahyusanciko&show_icons=true&theme=nord)
-
 ⭐️ From [@Bahyusanciko](https://github.com/bahyusanciko)
