@@ -1,5 +1,5 @@
 <h2> Hi Everyone, I'm Bahyu Sanciko!</h2>
-<p><em> Full-Stack Engineer <img src="https://komarev.com/ghpvc/?username=bahyusanciko&label=Profile%20views&color=0e75b6&style=flat" alt="bahyusanciko" /
+<p><em> Full-Stack Engineer <img src="https://komarev.com/ghpvc/?username=bahyusanciko&label=Profile%20views&color=0e75b6&style=flat" alt="bahyusanciko" />
 
 </em></p>
 
