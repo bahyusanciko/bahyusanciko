@@ -12,7 +12,7 @@
 
 ```javascript
 const aboutme = {
-  code: [PHP, Javascript, Typescript, HTML, CSS],
+  code: [PHP, Javascript, Typescript, HTML, CSS, SQL, NoSQL],
   tools: [ Laravel, Codeigniter , Angular , Ionic, React, Bootstrap, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   
