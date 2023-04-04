@@ -9,9 +9,9 @@
 
 
 ```javascript
-const aboutme = {
+const aboutMe = {
   code: [PHP, Javascript, Typescript, HTML, CSS, SQL, NoSQL],
-  tools: [ Laravel, Codeigniter, Ionic, Expo, Angular, React, Bootstrap],
+  tools: [ Laravel, Codeigniter, Ionic, Expo, Angular, React, Bootstrap, Tailwind],
   architecture: ["microservices", "event-driven", "design system pattern"],
   
  challenge: "I am doing the #100DaysOfCode challenge focused on typescript"
