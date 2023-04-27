@@ -19,8 +19,8 @@ const aboutMe = {
 ```
 ## Github Performance Overall
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahyusanciko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahyusanciko&theme=tokyonight) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahyusanciko&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahyusanciko&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bahyusanciko&theme=tokyonight) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bahyusanciko&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
