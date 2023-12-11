@@ -21,6 +21,5 @@ const aboutMe = {
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahyusanciko&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bahyusanciko&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahyusanciko&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bahyusanciko&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ⭐️ From [@Bahyusanciko](https://github.com/bahyusanciko)
